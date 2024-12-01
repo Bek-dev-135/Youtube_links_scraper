@@ -37,11 +37,11 @@ This project is a Python-based web scraper that uses Selenium WebDriver to extra
 
 ## Usage
 
-1. Open `web.py` in your text editor.
+1. Open `Link_Scraper.py` in your text editor.
 2. Replace the `driver.get('https://www.youtube.com/c/YOUR_CHANNEL_NAME/videos')` line with the YouTube channel URL you want to scrape.
 3. Run the script:
    ```bash
-   python web.py
+   python Link_Scraper.py
    ```
 4. The script will scrape the video links and titles and save them to a file named `video_links_and_titles.txt`.
 
